@@ -27,7 +27,7 @@ def main():
             elif choice == 2:
                 print("결과:", x*y)
             elif choice == 3:
-                print("결과:")
+                print("결과:", x / y)
         else:
             print("잘못된 입력.")
 
